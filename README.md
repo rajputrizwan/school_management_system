@@ -39,6 +39,6 @@ The code is modular, with functions handling individual tasks such as adding, vi
 
 👨‍💻 Check Out My Portfolio!
 Explore more of my projects and skills on my personal portfolio:
-Rizwan Rajput's Portfolio
+[Rizwan Rajput's Portfolio](https://rajputrizwan.github.io/my-portfolio/)
 
 Stay connected and discover more about my work!
