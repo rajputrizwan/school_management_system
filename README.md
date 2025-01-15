@@ -38,7 +38,10 @@ User-friendly prompts for navigating between features.
 The code is modular, with functions handling individual tasks such as adding, viewing, and deleting records. Separate structures are used to represent faculty, students, and administrative staff. Class information is stored in a simple array.
 
 👨‍💻 Check Out My Portfolio!
+
 Explore more of my projects and skills on my personal portfolio:
+
 [Rizwan Rajput's Portfolio](https://rajputrizwan.github.io/my-portfolio/)
+
 
 Stay connected and discover more about my work!
